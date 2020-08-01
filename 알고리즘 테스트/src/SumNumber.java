@@ -37,6 +37,7 @@ public class SumNumber {
 				number = scan.nextInt();
 			}
 		}
+		
 		System.out.println("결과 = " + sN.solution(number));	// 함수 실행 및 출력
 	}
 }
